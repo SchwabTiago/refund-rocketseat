@@ -1,6 +1,6 @@
 # 💰 Refund — Controle Simples de Reembolso
 
-**Refundr** é uma aplicação web focada em **organizar e acompanhar reembolso de forma prática e visual**. O projeto permite registrar gastos, categorizá-los e acompanhar **quantidade total** e **valor acumulado**, oferecendo uma visão clara do controle financeiro diário.
+**Refund** é uma aplicação web focada em **organizar e acompanhar reembolso de forma prática e visual**. O projeto permite registrar gastos, categorizá-los e acompanhar **quantidade total** e **valor acumulado**, oferecendo uma visão clara do controle financeiro diário.
 
 A proposta central é unir **simplicidade**, **boa experiência de uso** e **lógica financeira correta**, sendo ideal tanto para uso pessoal quanto como projeto de estudo em JavaScript e manipulação do DOM.
 
